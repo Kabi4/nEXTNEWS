@@ -1,0 +1,15 @@
+{
+    "name": "nEXT NEWS",
+    "short_name": "next-news",
+    "lang": "en-IN",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#f90",
+    "icons": [
+        {
+            "src": "/static/icon.png",
+            "sizes": "192x192",
+            "type": "png"
+        }
+    ]
+}
